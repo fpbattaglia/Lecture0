@@ -1,2 +1,3 @@
 Hello, this our first lecture in the neuro-analysis course!
 This will get really exciting! 
+looking at the diff functionality
